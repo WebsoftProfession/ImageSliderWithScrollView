@@ -2,8 +2,8 @@
 //  AppDelegate.h
 //  ImageSliderWithScrollView
 //
-//  Created by Dotsquares on 9/22/16.
-//  Copyright © 2016 Dotsquares. All rights reserved.
+//  Created by WebsoftProfession on 9/22/16.
+//   WebsoftProfession. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
